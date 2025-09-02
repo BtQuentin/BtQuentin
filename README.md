@@ -1,5 +1,6 @@
 # Hi!
-Hi, I’m @BtQuentin.
+
+![Typing SVG](https://typingsvg.vercel.app/api/svg?text=Hi%2C+I%E2%80%99m+%40BtQuentin.%3B&font=Monaco&color=%23000000&width=450&height=150&typingSpeed=0.2&pause=1000&letterSpacing=0.1&repeat=true&backgroundColor=%23ffffff&fontSize=28&center=true&vCenter=true&border=false&cursorStyle=underline&deleteAfter=true&deleteSpeed=0.2)
 
 ## My main repos:
  - [BtQuentin/AVD-Launcher](https://github.com/BtQuentin/AVD-Launcher)
