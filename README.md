@@ -18,3 +18,5 @@
 
 ## Achievements  
 ![](https://github-profile-trophy.vercel.app/?username=BtQuentin&show_icons=true&hide_border=true&include_all_commits=true)
+
+<a href="https://daily.dev/btquentin"><img src="https://api.daily.dev/devcards/v2/LnNyaH7cwOTusTIkXRJsg.png?type=default&r=u5f" width="356" alt="Quentin's Dev Card"/></a>
